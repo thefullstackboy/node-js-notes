@@ -1,0 +1,23 @@
+{
+  "name": "node_js_multiplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.6.0",
+    "js": "^0.1.0",
+    "monode": "^3.0.1",
+    "mysql2": "^2.3.3",
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15",
+    "restify-errors": "^4.1.0",
+    "sequelize": "^6.15.0"
+  }
+}
